@@ -22,7 +22,7 @@ if(languages.indexOf(lang) == -1) lang = "en"; // check if language is available
 
 (async() => {
     // kinda hacky way to fetch json files from github pages
-    const response = await fetch(`https://pindacolada.github.io/Otterpawswebsite/assets/languages/${lang}-text.json`)
+    const response = await fetch(`https://otter-s-paw-studio.github.io/Otterpawswebsite/assets/languages/${lang}-text.json`)
     const langObject = await response.json();
     // this replaces every element with the id of "text-" with the values from the languageObject file
     if(lang !== "en") {
