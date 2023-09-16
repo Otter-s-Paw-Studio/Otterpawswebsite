@@ -1,0 +1,22 @@
+{
+    "text-welcome-header": "欢迎来到Otter's Paw Studio",
+    "text-welcome-text": "我们是一群充满共同激情的五个人，对计算机科学和软件开发充满热情。我们一起踏上了创建自己的软件开发工作室之旅，这个工作室就是Otter's Paw Studio。",
+    "text-key-skills": "我们的关键技能",
+    "text-skill1": "在我们的专业领域，我们的核心领域有三个：数据科学、Web/桌面应用程序开发和平面设计。",
+    "text-skill2": "从使用HTML、CSS和JavaScript创建视觉上令人印象深刻且用户友好的网站，到利用ASP.NET和TypeScript的强大功能进行稳健的应用程序开发，我们涵盖了广泛的技术能力。",
+    "text-skill3": "我们的专业知识扩展到了数据分析、机器学习和使用Python的人工智能领域，同时还在Amazon Web Services (AWS)上提供云解决方案。",
+    "text-why-choose-us": "为什么选择我们？",
+    "text-multidisciplinary-team": "我们以成为一个多样化和多学科团队为傲，汇集了广泛的技能和经验。",
+    "text-highly-skilled": "我们的团队由高度熟练的专业人员组成，每个人都拥有坚实的教育背景和丰富的经验。",
+    "text-solution-oriented": "我们是开放式问题解决者，随时准备用创新的解决方案应对复杂的问题。",
+    "text-your-partner-for-success": "当您选择我们时，您不仅仅是雇佣了一个团队；您选择了一个致力于您的成功的合作伙伴。",
+    "text-contact-us": "联系我们",
+    "text-name": "姓名",
+    "text-email": "电子邮件",
+    "text-subject": "主题",
+    "text-message": "信息",
+    "text-send-message": "发送信息",
+    "text-phone": "电话",
+    "text-email-address": "电子邮件地址",
+    "text-address": "地址"
+}

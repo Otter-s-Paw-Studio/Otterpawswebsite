@@ -1,0 +1,22 @@
+{
+    "text-welcome-header": "Bem-vindo ao Otter's Paw Studio",
+    "text-welcome-text": "Somos um grupo de cinco indivíduos impulsionados por uma paixão compartilhada pela ciência da computação e desenvolvimento de software. Juntos, embarcamos em uma jornada para estabelecer nosso próprio estúdio de desenvolvimento de software, conhecido como Otter's Paw Studio.",
+    "text-key-skills": "Nossas Habilidades Chave",
+    "text-skill1": "No cerne de nossa expertise estão três domínios principais: ciências de dados, desenvolvimento de aplicativos web/desktop e design gráfico.",
+    "text-skill2": "Desde a criação de sites visualmente impressionantes e fáceis de usar usando HTML, CSS e JavaScript até o aproveitamento do poder do ASP.NET e TypeScript para um desenvolvimento de aplicativos sólido, cobrimos uma ampla gama de habilidades técnicas.",
+    "text-skill3": "Nossa experiência se estende ao mundo da análise de dados, aprendizado de máquina e inteligência artificial usando Python, e também nos destacamos em soluções baseadas em nuvem com Amazon Web Services (AWS).",
+    "text-why-choose-us": "Por que Escolher-nos?",
+    "text-multidisciplinary-team": "Orgulhamo-nos de ser uma equipe diversificada e multidisciplinar, reunindo uma ampla gama de habilidades e experiência.",
+    "text-highly-skilled": "Nossa equipe é composta por profissionais altamente qualificados, cada um com uma sólida formação educacional e extensa experiência em suas respectivas áreas.",
+    "text-solution-oriented": "Somos solucionadores de problemas de mentalidade aberta, sempre prontos para enfrentar questões complexas com soluções inovadoras.",
+    "text-your-partner-for-success": "Quando você nos escolhe, não está apenas contratando uma equipe; você está escolhendo um parceiro dedicado ao seu sucesso.",
+    "text-contact-us": "CONTATE-NOS",
+    "text-name": "NOME",
+    "text-email": "E-MAIL",
+    "text-subject": "ASSUNTO",
+    "text-message": "MENSAGEM",
+    "text-send-message": "ENVIAR MENSAGEM",
+    "text-phone": "TELEFONE",
+    "text-email-address": "ENDEREÇO DE E-MAIL",
+    "text-address": "ENDEREÇO"
+}

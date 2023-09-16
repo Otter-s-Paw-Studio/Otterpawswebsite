@@ -1,0 +1,22 @@
+{
+    "text-welcome-header": "Bienvenue chez Otter's Paw Studio",
+    "text-welcome-text": "Nous sommes un groupe de cinq personnes animées par une passion commune pour l'informatique et le développement de logiciels. Ensemble, nous nous sommes lancés dans un voyage pour créer notre propre studio de développement de logiciels, connu sous le nom de Otter's Paw Studio.",
+    "text-key-skills": "Nos Compétences Clés",
+    "text-skill1": "Au cœur de notre expertise se trouvent trois domaines principaux : les sciences des données, le développement d'applications web/de bureau et la conception graphique.",
+    "text-skill2": "De la création de sites web visuellement époustouflants et conviviaux en utilisant HTML, CSS et JavaScript à l'exploitation de la puissance d'ASP.NET et de TypeScript pour le développement robuste d'applications, nous couvrons un large éventail de compétences techniques.",
+    "text-skill3": "Notre expertise s'étend au domaine de l'analyse de données, de l'apprentissage automatique et de l'intelligence artificielle avec Python, tout en excellant également dans les solutions basées sur le cloud avec Amazon Web Services (AWS).",
+    "text-why-choose-us": "Pourquoi Nous Choisir ?",
+    "text-multidisciplinary-team": "Nous sommes fiers d'être une équipe diversifiée et multidisciplinaire, réunissant un large éventail de compétences et d'expertise.",
+    "text-highly-skilled": "Notre équipe est composée de professionnels hautement qualifiés, chacun ayant une solide formation et une vaste expérience dans son domaine respectif.",
+    "text-solution-oriented": "Nous sommes des résolveurs de problèmes ouverts d'esprit, toujours prêts à relever des défis complexes avec des solutions innovantes.",
+    "text-your-partner-for-success": "En nous choisissant, vous n'embauchez pas seulement une équipe ; vous choisissez un partenaire dédié à votre succès.",
+    "text-contact-us": "CONTACTEZ-NOUS",
+    "text-name": "NOM",
+    "text-email": "E-MAIL",
+    "text-subject": "SUJET",
+    "text-message": "MESSAGE",
+    "text-send-message": "ENVOYER LE MESSAGE",
+    "text-phone": "TÉLÉPHONE",
+    "text-email-address": "ADRESSE E-MAIL",
+    "text-address": "ADRESSE"
+}

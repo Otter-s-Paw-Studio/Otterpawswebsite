@@ -1,0 +1,22 @@
+{
+    "text-welcome-header": "Benvenuti in Otter's Paw Studio",
+    "text-welcome-text": "Siamo un gruppo di cinque persone guidate da una comune passione per l'informatica e lo sviluppo software. Insieme, ci siamo impegnati in un viaggio per fondare il nostro studio di sviluppo software, noto come Otter's Paw Studio.",
+    "text-key-skills": "Le Nostre Competenze Chiave",
+    "text-skill1": "Al cuore della nostra esperienza ci sono tre domini principali: scienze dei dati, sviluppo di applicazioni web/desktop e design grafico.",
+    "text-skill2": "Dalla creazione di siti web visualmente accattivanti e user-friendly utilizzando HTML, CSS e JavaScript all'utilizzo della potenza di ASP.NET e TypeScript per lo sviluppo di applicazioni robuste, copriamo un'ampia gamma di competenze tecniche.",
+    "text-skill3": "La nostra competenza si estende al mondo dell'analisi dei dati, dell'apprendimento automatico e dell'intelligenza artificiale utilizzando Python, eccellendo anche nelle soluzioni basate su cloud con Amazon Web Services (AWS).",
+    "text-why-choose-us": "Perché Sceglierci?",
+    "text-multidisciplinary-team": "Siamo orgogliosi di essere un team diversificato e multidisciplinare, che riunisce una vasta gamma di competenze ed esperienze.",
+    "text-highly-skilled": "Il nostro team è composto da professionisti altamente qualificati, ognuno con una solida formazione e una vasta esperienza nel proprio settore.",
+    "text-solution-oriented": "Siamo risolutori di problemi orientati alla soluzione, sempre pronti ad affrontare questioni complesse con soluzioni innovative.",
+    "text-your-partner-for-success": "Quando ci scegliete, non state solo assumendo un team; state scegliendo un partner dedicato al vostro successo.",
+    "text-contact-us": "CONTATTACI",
+    "text-name": "NOME",
+    "text-email": "E-MAIL",
+    "text-subject": "OGGETTO",
+    "text-message": "MESSAGGIO",
+    "text-send-message": "INVIA MESSAGGIO",
+    "text-phone": "TELEFONO",
+    "text-email-address": "INDIRIZZO E-MAIL",
+    "text-address": "INDIRIZZO"
+}

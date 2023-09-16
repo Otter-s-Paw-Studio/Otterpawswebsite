@@ -1,0 +1,22 @@
+{
+    "text-welcome-header": "Willkommen bei Otter's Paw Studio",
+    "text-welcome-text": "Wir sind eine Gruppe von fünf Personen, die von einer gemeinsamen Leidenschaft für Informatik und Softwareentwicklung angetrieben werden. Gemeinsam haben wir uns auf eine Reise begeben, um unser eigenes Softwareentwicklungsstudio, bekannt als Otter's Paw Studio, zu gründen.",
+    "text-key-skills": "Unsere Schlüsselkompetenzen",
+    "text-skill1": "Im Herzen unserer Expertise liegen drei Kernbereiche: Datenwissenschaften, Web-/Desktop-Anwendungsentwicklung und Grafikdesign.",
+    "text-skill2": "Von der Gestaltung optisch ansprechender und benutzerfreundlicher Websites mit HTML, CSS und JavaScript bis hin zur Nutzung der Leistung von ASP.NET und TypeScript für die Entwicklung robuster Anwendungen decken wir ein breites Spektrum technischer Fähigkeiten ab.",
+    "text-skill3": "Unsere Expertise erstreckt sich auf die Welt der Datenanalyse, des maschinellen Lernens und der künstlichen Intelligenz mit Python, während wir uns auch in Cloud-basierten Lösungen mit Amazon Web Services (AWS) auszeichnen.",
+    "text-why-choose-us": "Warum Uns Wählen?",
+    "text-multidisciplinary-team": "Wir sind stolz darauf, ein vielfältiges und multidisziplinäres Team zu sein, das eine breite Palette von Fähigkeiten und Fachwissen zusammenbringt.",
+    "text-highly-skilled": "Unser Team besteht aus hochqualifizierten Fachleuten, von denen jeder eine solide Ausbildung und umfangreiche Erfahrung in seinem jeweiligen Fachgebiet hat.",
+    "text-solution-oriented": "Wir sind aufgeschlossene Problemlöser, immer bereit, komplexe Probleme mit innovativen Lösungen anzugehen.",
+    "text-your-partner-for-success": "Wenn Sie uns wählen, stellen Sie nicht nur ein Team ein, sondern wählen einen Partner, der sich Ihrem Erfolg verschrieben hat.",
+    "text-contact-us": "KONTAKTIEREN SIE UNS",
+    "text-name": "NAME",
+    "text-email": "E-MAIL",
+    "text-subject": "BETREFF",
+    "text-message": "NACHRICHT",
+    "text-send-message": "NACHRICHT SENDEN",
+    "text-phone": "TELEFON",
+    "text-email-address": "E-MAIL-ADRESSE",
+    "text-address": "ADRESSE"
+}

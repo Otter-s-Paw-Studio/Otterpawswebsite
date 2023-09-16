@@ -1,0 +1,22 @@
+{
+    "text-welcome-header": "Welcome to <span>Otter's Paw Studio</span>",
+    "text-welcome-text": "We are a group of five individuals driven by a shared passion for computer science and software development. Together, we have embarked on a journey to establish our very own software development studio, known as Otter's Paw Studio.",
+    "text-key-skills": "Our Key Skills",
+    "text-skill1": "At the heart of our expertise lie three core domains: data sciences, web/desktop application development, and graphic design.",
+    "text-skill2": "From crafting visually stunning and user-friendly websites using HTML, CSS, and JavaScript to harnessing the power of ASP.NET and TypeScript for robust application development, we cover a wide spectrum of technical capabilities.",
+    "text-skill3": "Our proficiency extends to the world of data analysis, machine learning, and artificial intelligence using Python, while also excelling in cloud-based solutions with Amazon Web Services (AWS).",
+    "text-why-choose-us": "Why Choose Us?",
+    "text-multidisciplinary-team": "We pride ourselves on being a diverse and multidisciplinary team, bringing together a wide range of skills and expertise.",
+    "text-highly-skilled": "Our team is comprised of highly skilled professionals, each with a strong educational background and extensive experience in their respective fields.",
+    "text-solution-oriented": "We are open-minded problem solvers, always ready to tackle complex issues with innovative solutions.",
+    "text-your-partner-for-success": "When you choose us, you're not just hiring a team; you're choosing a partner dedicated to your success.",
+    "text-contact-us": "CONTACT US",
+    "text-name": "NAME",
+    "text-email": "EMAIL",
+    "text-subject": "SUBJECT",
+    "text-message": "MESSAGE",
+    "text-send-message": "SEND MESSAGE",
+    "text-phone": "PHONE",
+    "text-email-address": "EMAIL ADDRESS",
+    "text-address": "ADDRESS"
+}
