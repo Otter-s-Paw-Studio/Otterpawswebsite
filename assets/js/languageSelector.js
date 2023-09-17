@@ -25,10 +25,12 @@ if(languages.indexOf(lang) == -1) lang = "en"; // check if language is available
     const response = await fetch(`https://otter-s-paw-studio.github.io/Otterpawswebsite/assets/languages/${lang}-text.json`)
     const langObject = await response.json();
     // this replaces every element with the id of "text-" with the values from the languageObject file
-    if(lang !== "en") {
-        var text = document.querySelectorAll('*[id^="text-"]');
-        for (var i = 0; i < text.length; i++) {
-            text.item(i).innerHTML = langObject[text.item(i).id];
+    var textContainers = document.querySelectorAll('*[id^="text-"]');
+    for (var i = 0; i < textContainers.length; i++) {
+        if(langObject[text.item(i).id].match(/^\</)) {
+            textContainers.item(i).innerHTML = langObject[textContainers.item(i).id];
+        }else {
+            textContainers.item(i).innerText = langObject[textContainers.item(i).id];
         }
     }
 })();
