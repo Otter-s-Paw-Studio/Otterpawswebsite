@@ -27,10 +27,6 @@ if(languages.indexOf(lang) == -1) lang = "en"; // check if language is available
     // this replaces every element with the id of "text-" with the values from the languageObject file
     var textContainers = document.querySelectorAll('*[id^="text-"]');
     for (var i = 0; i < textContainers.length; i++) {
-        if(langObject[textContainers.item(i).id].match(/^\</)) {
-            textContainers.item(i).innerHTML = langObject[textContainers.item(i).id];
-        }else {
-            textContainers.item(i).innerText = langObject[textContainers.item(i).id];
-        }
+        textContainers.item(i).innerHTML = langObject[textContainers.item(i).id];
     }
 })();
