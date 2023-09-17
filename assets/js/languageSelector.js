@@ -28,7 +28,7 @@ if(languages.indexOf(lang) == -1) lang = "en"; // check if language is available
     if(lang !== "en") {
         var text = document.querySelectorAll('*[id^="text-"]');
         for (var i = 0; i < text.length; i++) {
-            text.item(i).innerText = langObject[text.item(i).id];
+            text.item(i).innerHTML = langObject[text.item(i).id];
         }
     }
 })();
