@@ -1,7 +1,7 @@
 {
    "text-welcome_header": "欢迎来到<span>OTTER'S PAW STUDIO</span>!",
    "text-welcome_text": "我们是一组由五名个体组成的团队，共同热衷于计算机科学和软件开发。我们一起踏上了建立自己的软件开发工作室之旅，即Otter's Paw Studio。<br>我们的团队致力于创新、创意和卓越，致力于我们承担的每个项目。凭借多样化的技能和经验，我们为客户提供了独特的专业知识。我们的使命是提供与客户不断发展的需求相适应的尖端解决方案。我们致力于突破技术的界限，将思想变成现实。欢迎来到Otter's Paw Studio！",
-   "text-home": "主页 <div class=\"ripple-wrapper\"></div>",
+   "text-home": "主页",
    "text-about": "关于",
    "text-service": "服务",
    "text-contact": "联系我们",

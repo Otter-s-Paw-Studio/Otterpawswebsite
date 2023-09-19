@@ -1,4 +1,4 @@
-const languages = ["de", "en", "fr", "it", "pt", "zh"] // available languages
+const languages = ["de", "en", "fr", "it", "pt", "zh", "es"] // available languages
 
 // check for language set in localStorage if not available set to browser language
 const getLanguage = () => {
@@ -8,6 +8,7 @@ const getLanguage = () => {
     if(navigator.language.match(/^it\-/)) return "it";
     if(navigator.language.match(/^pt\-/)) return "pt";
     if(navigator.language.match(/^zh\-/)) return "zh";
+    if(navigator.language.match(/^es\-/)) return "es";
     return navigator.language
 }
 var lang = (localStorage.getItem("lang") !== null) ? localStorage.getItem("lang") : getLanguage();
@@ -23,7 +24,7 @@ if(languages.indexOf(lang) == -1) lang = "en"; // check if language is available
 (async() => {
     // kinda hacky way to fetch json files from github pages
     const response = await fetch(`https://otter-s-paw-studio.github.io/Otterpawswebsite/assets/languages/${lang}-text.json`)
-    const langObject = await response.json();
+    const langObject = JSON.parse(await response.json());
     // this replaces every element with the id of "text-" with the values from the languageObject file
     var textContainers = document.querySelectorAll('*[id^="text-"]');
     for (var i = 0; i < textContainers.length; i++) {
