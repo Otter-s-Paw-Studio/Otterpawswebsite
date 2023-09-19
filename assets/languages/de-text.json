@@ -1,13 +1,11 @@
 {
    "text-welcome_header": "Willkommen bei <span>OTTER'S PAW STUDIO</span>!",
    "text-welcome_text": "Wir sind eine Gruppe von fünf Personen, die von einer gemeinsamen Leidenschaft für Informatik und Softwareentwicklung angetrieben werden. Gemeinsam haben wir uns auf eine Reise begeben, um unser eigenes Softwareentwicklungsstudio, bekannt als Otter's Paw Studio, zu gründen.<br>Unser Team ist dem Innovationsgeist, der Kreativität und der Exzellenz in jedem Projekt, das wir durchführen, verpflichtet. Mit einem vielfältigen Satz von Fähigkeiten und Erfahrungen bringen wir eine einzigartige Mischung von Fachwissen mit. Unsere Mission ist es, hochmoderne Lösungen anzubieten, die auf die sich entwickelnden Bedürfnisse unserer Kunden zugeschnitten sind. Wir sind darauf spezialisiert, die Grenzen der Technologie zu erweitern und Ideen in die Realität umzusetzen. Willkommen bei Otter's Paw Studio!",
-   "text-menu": {
-      "text-logo": "Logo von Otter's Paw Studio",
-      "text-home": "ZUHAUSE",
-      "text-about": "ÜBER UNS",
-      "text-service": "DIENSTLEISTUNGEN",
-      "text-contact": "KONTAKT"
-   },
+   "text-home": "STARTSEITE <div class='ripple-wrapper'></div>",
+   "text-about": "ÜBER UNS",
+   "text-service": "DIENSTLEISTUNGEN",
+   "text-contact": "KONTAKT",
+   "text-about_us": "ÜBER UNS",
    "text-key_skills": "UNSERE KERNKOMPETENZEN",
    "text-skills_description": "Im Herzen unserer Expertise liegen drei Kernbereiche: Datenwissenschaften, Web-/Desktop-Anwendungsentwicklung und Grafikdesign. Wir decken eine breite Palette technischer Fähigkeiten ab, angefangen von der Gestaltung optisch ansprechender und benutzerfreundlicher Websites mit HTML, CSS und JavaScript bis hin zur Nutzung der Leistungsfähigkeit von ASP.NET und TypeScript für die Entwicklung robuster Anwendungen. Unsere Kompetenz erstreckt sich auch auf die Welt der Datenanalyse, des maschinellen Lernens und der künstlichen Intelligenz mit Python. Darüber hinaus sind wir in Cloud-basierten Lösungen mit Amazon Web Services (AWS) führend. Wir setzen auch Tools wie Blazor, Lisp, Shell Script und Web-Scraping-Techniken ein, um vielfältige Projektanforderungen zu erfüllen und sicherzustellen, dass unsere Kunden umfassende und erstklassige Lösungen erhalten.",
    "text-why_choose_us": "WARUM UNS WÄHLEN?",

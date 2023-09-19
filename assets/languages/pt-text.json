@@ -1,13 +1,11 @@
 {
    "text-welcome_header": "Bem-vindo ao <span>OTTER'S PAW STUDIO</span>!",
    "text-welcome_text": "Nós somos um grupo de cinco indivíduos impulsionados por uma paixão compartilhada por ciência da computação e desenvolvimento de software. Juntos, embarcamos em uma jornada para estabelecer nosso próprio estúdio de desenvolvimento de software, conhecido como Otter's Paw Studio.<br>Nossa equipe está comprometida com inovação, criatividade e excelência em todos os projetos que realizamos. Com um conjunto diversificado de habilidades e experiências, trazemos uma mistura única de expertise para a mesa. Nossa missão é fornecer soluções de ponta, sob medida para atender às necessidades em constante evolução de nossos clientes. Estamos dedicados a ultrapassar os limites da tecnologia e transformar ideias em realidade. Bem-vindo ao Otter's Paw Studio!",
-   "text-menu": {
-      "text-logo": "Logotipo do Otter's Paw Studio",
-      "text-home": "INÍCIO",
-      "text-about": "SOBRE",
-      "text-service": "SERVIÇO",
-      "text-contact": "CONTATO"
-   },
+   "text-home": "INÍCIO <div class='ripple-wrapper'></div>",
+   "text-about": "SOBRE",
+   "text-service": "SERVIÇO",
+   "text-contact": "CONTATO",
+   "text-about_us": "SOBRE NÓS",
    "text-key_skills": "NOSSAS HABILIDADES-CHAVE",
    "text-skills_description": "No centro de nossa expertise estão três domínios principais: ciências de dados, desenvolvimento de aplicativos web/desktop e design gráfico. Desde a criação de sites visualmente impressionantes e amigáveis ao usuário usando HTML, CSS e JavaScript até o uso do poder do ASP.NET e TypeScript para desenvolvimento robusto de aplicativos, abrangemos um amplo espectro de capacidades técnicas. Nossa proficiência se estende ao mundo da análise de dados, aprendizado de máquina e inteligência artificial usando Python, enquanto também nos destacamos em soluções baseadas na nuvem com Amazon Web Services (AWS). Além disso, utilizamos ferramentas como Blazor, Lisp, Shell Script e técnicas de raspagem na web para atender a diversos requisitos de projetos, garantindo que nossos clientes recebam soluções abrangentes e de alta qualidade.",
    "text-why_choose_us": "POR QUE NOS ESCOLHER?",

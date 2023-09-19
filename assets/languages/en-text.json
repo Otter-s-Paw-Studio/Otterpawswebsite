@@ -1,13 +1,11 @@
 {
    "text-welcome_header": "Welcome to <span>OTTER'S PAW STUDIO</span>!",
    "text-welcome_text": "We are a group of five individuals driven by a shared passion for computer science and software development. Together, we have embarked on a journey to establish our very own software development studio, known as Otter's Paw Studio.<br>Our team is committed to innovation, creativity, and excellence in every project we undertake. With a diverse set of skills and experiences, we bring a unique blend of expertise to the table. Our mission is to deliver cutting-edge solutions, tailored to meet the evolving needs of our clients. We are dedicated to pushing the boundaries of technology and turning ideas into reality. Welcome to Otter's Paw Studio!",
-   "text-menu": {
-      "text-logo": "Logo de Otter's Paw Studio",
-      "text-home": "HOME",
-      "text-about": "ABOUT",
-      "text-service": "SERVICE",
-      "text-contact": "CONTACT"
-   },
+   "text-home": "HOME <div class='ripple-wrapper'></div>",
+   "text-about": "ABOUT",
+   "text-service": "SERVICE",
+   "text-contact": "CONTACT",
+   "text-about_us": "ABOUT US",
    "text-key_skills": "OUR KEY SKILLS",
    "text-skills_description": "At the heart of our expertise lie three core domains: data sciences, web/desktop application development, and graphic design. From crafting visually stunning and user-friendly websites using HTML, CSS, and JavaScript to harnessing the power of ASP.NET and TypeScript for robust application development, we cover a wide spectrum of technical capabilities. Our proficiency extends to the world of data analysis, machine learning, and artificial intelligence using Python, while also excelling in cloud-based solutions with Amazon Web Services (AWS). Additionally, we employ tools like Blazor, Lisp, Shell Script, and web scraping techniques to meet diverse project requirements, ensuring our clients receive comprehensive and top-tier solutions.",
    "text-why_choose_us": "WHY CHOOSE US?",

@@ -1,13 +1,11 @@
 {
    "text-welcome_header": "欢迎来到<span>OTTER'S PAW STUDIO</span>!",
    "text-welcome_text": "我们是一组由五名个体组成的团队，共同热衷于计算机科学和软件开发。我们一起踏上了建立自己的软件开发工作室之旅，即Otter's Paw Studio。<br>我们的团队致力于创新、创意和卓越，致力于我们承担的每个项目。凭借多样化的技能和经验，我们为客户提供了独特的专业知识。我们的使命是提供与客户不断发展的需求相适应的尖端解决方案。我们致力于突破技术的界限，将思想变成现实。欢迎来到Otter's Paw Studio！",
-   "text-menu": {
-      "text-logo": "Otter's Paw Studio徽标",
-      "text-home": "主页",
-      "text-about": "关于",
-      "text-service": "服务",
-      "text-contact": "联系我们"
-   },
+   "text-home": "主页 <div class='ripple-wrapper'></div>",
+   "text-about": "关于",
+   "text-service": "服务",
+   "text-contact": "联系我们",
+   "text-about_us": "关于我们",
    "text-key_skills": "我们的关键技能",
    "text-skills_description": "在我们的专业知识的核心是三个核心领域：数据科学、Web/桌面应用程序开发和图形设计。从使用HTML、CSS和JavaScript制作视觉引人注目且用户友好的网站，到利用ASP.NET和TypeScript进行强大的应用程序开发，我们涵盖了广泛的技术能力领域。我们的熟练程度扩展到使用Python进行数据分析、机器学习和人工智能的世界，同时在Amazon Web Services（AWS）的云解决方案方面也表现出色。此外，我们还使用Blazor、Lisp、Shell脚本和Web抓取技术来满足多样化的项目需求，确保客户获得全面和顶级的解决方案。",
    "text-why_choose_us": "为什么选择我们？",
