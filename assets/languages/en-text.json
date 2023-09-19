@@ -8,10 +8,10 @@
       "text-service": "SERVICE",
       "text-contact": "CONTACT"
    },
-   "text-we_build_sub_text": Graphics Design, Web Design, Web and Desktop Development
-   "text-we_build": We Create,We Build for you
-   "text-learnmore": learn more
-   "text-contactus": Contact us
+   "text-we_build_sub_text": "Graphics Design, Web Design, Web and Desktop Development"
+   "text-we_build": "We Create,We Build for you"
+   "text-learnmore": "learn more"
+   "text-contactus": "Contact us"
    "text-key_skills": "OUR KEY SKILLS",
    "text-skills_description": "At the heart of our expertise lie three core domains: data sciences, web/desktop application development, and graphic design. From crafting visually stunning and user-friendly websites using HTML, CSS, and JavaScript to harnessing the power of ASP.NET and TypeScript for robust application development, we cover a wide spectrum of technical capabilities. Our proficiency extends to the world of data analysis, machine learning, and artificial intelligence using Python, while also excelling in cloud-based solutions with Amazon Web Services (AWS). Additionally, we employ tools like Blazor, Lisp, Shell Script, and web scraping techniques to meet diverse project requirements, ensuring our clients receive comprehensive and top-tier solutions.",
    "text-why_choose_us": "WHY CHOOSE US?",
@@ -57,16 +57,13 @@
    "text-phone": "+1 111 222 3333",
    "text-email_address": "otterpawstudio@protonmail.me",
    "text-address": "Berlin, Milan, Madrid, and Sao Paulo."
-}
-
-{
-   "text-we_build_sub_text": Graphics Design, Web Design, Web and Desktop Development
-   "text-we_build": We Create,We Build for you
-   "text-learnmore": learn more
-   "text-contactus": Contact us
-   "text-projectcompleted": project completed
-   "text-HappyClients": Happy Clients
-   "text-LineOfCoding": Line Of Coding
-   "text-AwardsWon": Awards Won
-   "text-ContactUs": contact us
+      "text-we_build_sub_text": "Graphics Design, Web Design, Web and Desktop Development"
+   "text-we_build": "We Create,We Build for you"
+   "text-learnmore": "learn more"
+   "text-contactus": "Contact us"
+   "text-projectcompleted": "project completed"
+   "text-HappyClients": "Happy Clients"
+   "text-LineOfCoding": "Line Of Coding"
+   "text-AwardsWon": "Awards Won"
+   "text-ContactUs": "contact us"
 }
