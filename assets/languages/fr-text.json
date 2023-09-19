@@ -8,10 +8,6 @@
       "text-service": "SERVICES",
       "text-contact": "CONTACT"
    },
-   "text-we_build_sub_text": "Conception graphique, conception Web, développement Web et de bureau",
-   "text-we_build": "Nous créons, nous construisons pour vous",
-   "text-learnmore": "En savoir plus",
-   "text-contactus": "Contactez-nous"
    "text-key_skills": "NOS COMPÉTENCES CLÉS",
    "text-skills_description": "Au cœur de notre expertise se trouvent trois domaines principaux : les sciences des données, le développement d'applications web/de bureau et la conception graphique. De la création de sites web visuellement époustouflants et conviviaux en utilisant HTML, CSS et JavaScript à l'utilisation de la puissance d'ASP.NET et de TypeScript pour le développement d'applications robustes, nous couvrons un large éventail de compétences techniques. Notre expertise s'étend au monde de l'analyse des données, de l'apprentissage automatique et de l'intelligence artificielle en utilisant Python, tout en exceller dans les solutions basées sur le cloud avec Amazon Web Services (AWS). De plus, nous utilisons des outils tels que Blazor, Lisp, Shell Script et des techniques de web scraping pour répondre aux divers besoins des projets, garantissant que nos clients reçoivent des solutions complètes et haut de gamme.",
    "text-why_choose_us": "POURQUOI NOUS CHOISIR ?",
